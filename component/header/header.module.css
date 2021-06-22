@@ -1,0 +1,21 @@
+.container{
+    align-content: center;
+    padding: 8px;
+}
+
+.list{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+}
+
+.itemlist{
+    color: #393E46;
+    margin: 0px 20px;
+}
+
+.itemlist a:hover,
+.itemlist a:focus,
+.itemlist a:active {
+  color: #FF8303;
+}
